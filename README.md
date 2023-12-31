@@ -1,20 +1,17 @@
-# Burguer Foods
+## 💻 Burguer Foods: Aplicação para Cadastro de Pedidos utilizando Laravel
 
-## Caso de Uso
+- Código desenvolvido durante teste para aplicação de vaga de desenvolvedor PHP.
 
-    Um restaurante precisa registrar suas vendas de forma fácil e rápida. São utilizadas
-    comandas para anotar os pedidos de seus clientes. O restaurante gostaria de ter um
-    ambiente intuitivo, listando os produtos mais vendidos e facilitando a inserção dos
-    mesmos em um checkout. O restaurante também gostaria de um visual simples, porém
-    moderno.
+## :rocket: Tecnologias
 
-## Tecnologias usadas
+Neste projeto foram utilizadas as seguintes tecnologias:
+
 - PHP 7.3
 - Laravel 8
 - jQuery
 - Bootstrap
 
-### Como usar:
+## ▶️ Utilização
 
 - Clone o repositório com __git clone__
 - Renomeie __. Env.example__ para __. Env__ e edite as credenciais do banco de dados lá
@@ -23,7 +20,7 @@
 - Execute __php artisan migrate__
 - Execute __php artisan serve__
 
-### Telas
+## 💻 Projeto
 
 ![pedidos_abertos](https://user-images.githubusercontent.com/59016759/140598070-dcc39a28-ed9b-4d96-8538-a97413e2504b.PNG)
 ![checkout](https://user-images.githubusercontent.com/59016759/140598057-b9d1491a-a1c3-43e6-972d-9eb434fa8b16.PNG)
